@@ -17,7 +17,7 @@ Let's see how we can use it to attack the contract.
 
 ## Attack
 
-Create a smart contract which will call the following functions in the Road Block contract in the following order. We will call these functions from the constructor of our contract to attack the vulnerability we discussed above.
+Create a [smart contract](./contracts/Attack.sol) which will call the following functions in the Road Block contract in the following order. We will call these functions from the constructor of our contract to attack the vulnerability we discussed above.
 1.	`addToWhitelist(address addr)` 
 2.	`changeOwner(address addr)`
 3.	`pwn(address addr)`
