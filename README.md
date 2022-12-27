@@ -22,3 +22,13 @@ Challenge - https://quillctf.super.site/challenges/quillctf-challenges/ctf02
 
 Check out my [solution](./confidential-hash).
 
+
+## 3. safeNFT
+
+Challenge - https://quillctf.super.site/challenges/quillctf-challenges/bulletproof-nft
+
+Check out my [solution](./safeNFT).
+
+
+
+
